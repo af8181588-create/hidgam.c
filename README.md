@@ -1,0 +1,2 @@
+# hidgam.c
+kimia
